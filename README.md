@@ -7,8 +7,8 @@ Changes:
 4. Significantly reduced Devfee , only keeps 0.45 - 0.5 Percent(keep 1 loop out of 9 loops in origianl 0.0.5b). rests are returned to Rigs Owner.
 
 
-�䶯������:
-1. ��ȫ�����˿����ѵĽ���
-2. ���´�����һЩ���ܷ���Ķ��������߼�������
-3. �Ż��˽���,��ͨ��970M�Կ�ԭʼ0.0.5b���120-125Sols,���ڿ��Ի��135-140Sols����
-4. �Զ��׼��ļ��ٿ�������,ֻ������0.45-0.5�İٷֱȿ�������.(��9��������ѭ���б���һ��),����Ĳ�ռ���ڿ��������ʱ��.
+变动的内容:
+1. 完全整理了开发费的进程
+2. 重新处理了一些加密方面的东西，让逻辑尽量简单
+3. 优化了进程,我通过970M显卡原始0.0.5b获得120-125Sols,现在可以获得135-140Sols算力
+4. 显而易见的减少开发费用,只保留了0.45-0.5的百分比开发费用.(从9个开发费循环中保留一个),其余的不占用挖矿机的算力时间..
